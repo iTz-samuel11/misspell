@@ -22,7 +22,7 @@ b) If working locally type the following command from your command line: `git cl
 - The tasks are added when the user press enter on the keyboard or you can have your own button.
 - The delete icon shows only when the task is hovered.
 - The user can add as many tasks as it wants.
-- When there is no tasks the list should say "No tasks, add a task"
+- When there is no tasks the list should say "No tasks, add a task".
 - There is no way to update a task, the user will have to delete and create again.
 
 
